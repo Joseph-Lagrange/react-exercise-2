@@ -12,7 +12,10 @@ body {
 }
 
 h1 {
+  color: $white;
   font-size: 2em;
+  line-height: 80px;
+  padding-left: 30px;
 }
 
 h2 {
